@@ -12,7 +12,7 @@ This machine learning model classifies any movie review in respective classes of
 Clone this repository using the following command: </p>
 
 ```
-$ git clone https://github.com/Zahiid23/Student-Grade-Predictor.git
+$ git clone https://github.com/Zahiid23/Movie-Reviews-Classification.git
 
 ```
 
